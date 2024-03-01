@@ -4,9 +4,10 @@
 </div>  
   
 
-- 👨🏻‍💻 I’m currently working as a Product Software Engineer  -> Portfolio : https://umairmohsinportfolio.netlify.app/
+- 👨🏻‍💻 I’m currently working as a Software Engineer with interests mainly in AI   -> Portfolio : https://umairmohsinportfolio.netlify.app/
   
-❓ Ask me about anything related to MERN stack, Frontend development (React).  
+❓ Ask me about anything related to MERN stack, Frontend development (React) , Generative AI , Building Chatbots. 
+ 
 
 
 <br/>  
