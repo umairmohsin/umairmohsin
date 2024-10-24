@@ -4,9 +4,9 @@
 </div>  
   
 
-- 👨🏻‍💻 I’m currently working as a Software Engineer with interests mainly in Generative AI & ML   -> Portfolio : https://umairmohsinportfolio.netlify.app/
+- 👨🏻‍💻 I’m currently working as an AI Engineer with interests in Data and Analytics as well   -> Portfolio : https://umairmohsinportfolio.netlify.app/
   
-❓ Ask me about anything related to MERN stack, Frontend development (React) , Generative AI , Building Chatbots. 
+❓ Ask me about anything related to MERN stack, Generative AI , Building Chatbots , Data Analytics. 
  
 
 <br/>  
