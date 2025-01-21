@@ -4,11 +4,12 @@
 </div>  
   
 
-- 👨🏻‍💻 I’m currently working as an AI Engineer with interests in Data and Analytics as well   -> Portfolio : https://umairmohsinportfolio.netlify.app/
+- 👨🏻‍💻 I’m currently working as an AI Engineer with interests in Data and Analytics as well
+- Hugging Face : https://huggingface.co/Mairu10
+- Portfolio : https://umairmohsinportfolio.netlify.app/
   
 ❓ Ask me about anything related to Generative AI , ML & Data science. 
  
-
 <br/>  
 
 
