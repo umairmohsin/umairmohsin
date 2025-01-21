@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 I’m currently working as an AI Engineer with interests in Data and Analytics as well   -> Portfolio : https://umairmohsinportfolio.netlify.app/
   
-❓ Ask me about anything related to MERN stack, Generative AI , Building Chatbots , Data Analytics. 
+❓ Ask me about anything related to Generative AI , ML & Data science. 
  
 
 <br/>  
@@ -14,7 +14,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -28,7 +27,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
