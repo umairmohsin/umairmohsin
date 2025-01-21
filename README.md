@@ -4,7 +4,7 @@
 </div>  
   
 
-- 👨🏻‍💻 I’m currently working as an AI Engineer with interests in Data and Analytics as well
+- 👨🏻‍💻 I’m currently working as an Digital Consultant with interests in AI & Data
 - Hugging Face : https://huggingface.co/Mairu10
 - Portfolio : https://umairmohsinportfolio.netlify.app/
 
