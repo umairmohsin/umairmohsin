@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 I’m currently working as an Digital Consultant with interests in AI & Data
 - Hugging Face : https://huggingface.co/Mairu10    (For AI Apps)
-- Portfolio : https://umairmohsinportfolio.netlify.app/    --> Currently under 🚧 stay tuned for new website :)  
+- Portfolio : https://umairmohsinportfolio.netlify.app/    --> Currently under development 🚧 stay tuned for new website :)  
 
 Lets chat and collaborate on topics related to Generative AI , ML & Data science ❓ 
  
