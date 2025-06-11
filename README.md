@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Muhammad Umair<br>👨🏻‍💻 I’m currently working as a Consultant with interests in AI & Data<br>Hugging Face : https://huggingface.co/Mairu10 (For AI Apps)<br>Lets chat and collaborate on topics related to Generative AI , ML & Data science ❓<br> 
+Hi 👋, I'm Muhammad Umair<br>👨🏻‍💻 I’m currently working as a Consultant with expertise in AI & Data <br>Hugging Face : https://huggingface.co/Mairu10 (For AI Apps)<br>Lets chat and collaborate on topics related to Generative AI , ML & Data science <br> 
 
 
 ## 🌐 Socials:
